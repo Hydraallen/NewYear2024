@@ -1,4 +1,4 @@
-# 2024 New Year
+# New Year 2024
 
 ## [Online Animation](https://hydraallen.github.io/NewYear2024/)
 
