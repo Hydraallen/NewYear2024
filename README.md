@@ -1,5 +1,7 @@
 # 2024 New Year
 
+## [Online Animation](https://hydraallen.github.io/NewYear2024/)
+
 ## Codes
 
 This repo contains codes for the 2024 New Year animation.
